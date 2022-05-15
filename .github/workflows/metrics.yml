@@ -9,6 +9,6 @@ jobs:
   integration:
     runs-on: [ubuntu-latest]
   
-  steps:
-    - name: Metrics embed
-      uses: lowlighter/metrics@v3.23
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.23
