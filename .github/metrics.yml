@@ -1,2 +1,14 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.23
+name: Generate Metrics
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  integration:
+    runs-on: [ubuntu-latest]
+  
+  steps:
+    - name: Metrics embed
+      uses: lowlighter/metrics@v3.23
