@@ -24,7 +24,7 @@ jobs:
           # Options
           user: Skrylex
           template: classic
-          base: header, activity, metadata
+          base: header, activity, metadata, repositories
           config_timezone: Europe/Paris
           plugin_achievements: yes
           plugin_achievements_display: compact
