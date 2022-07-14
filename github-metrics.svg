@@ -298,12 +298,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.1907748595322" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="297.1907748595322" y="0" width="86.36495491963936" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.55572977917154" y="0" width="38.258199398928525" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="421.81392917810007" y="0" width="37.34156539918986" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.1554945772899" y="0" width="0.7272964850385469" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.88279106232847" y="0" width="0.11720893767150138" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.186891586416" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="297.186891586416" y="0" width="86.36382642327945" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.55071800969546" y="0" width="38.26371013053534" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="421.8144281402308" y="0" width="37.341077471874144" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.15550561210495" y="0" width="0.7272869817459592" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8827925938509" y="0" width="0.11720740614914218" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2824,7 +2824,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.06m out of 94m users</span>
+                                    <span class="gh">ranked 2.07m out of 94m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -2964,7 +2964,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2022, 03:47:48 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 14 Jul 2022, 14:39:20 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
