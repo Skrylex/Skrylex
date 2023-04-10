@@ -298,10 +298,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.9249639249639" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="323.9249639249639" y="0" width="85.08684730906954" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="409.0118112340334" y="0" width="43.2440810218588" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.2558922558922" y="0" width="7.744107744107744" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.87303622956074" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="323.87303622956074" y="0" width="85.14694880837875" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="409.0199850379395" y="0" width="43.237148658758144" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.2571336966976" y="0" width="7.742866303302341" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -313,7 +313,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>70.42%</div>
+                                <div>70.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -337,7 +337,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>18.5%</div>
+                                <div>18.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2629,7 +2629,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.36m out of 112m users</span>
+                                    <span class="gh">ranked 8.36m out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2791,7 +2791,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.52m out of 112m users</span>
+                                    <span class="gh">ranked 2.52m out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -2931,7 +2931,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2023, 02:14:56 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 10 Apr 2023, 14:05:33 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
