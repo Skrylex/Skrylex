@@ -292,17 +292,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 342kb of code in 95 edited files across 101 commits over last 40 days</small>
+                <small>estimation from 343kb of code in 96 edited files across 101 commits over last 40 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.45048344959466" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="226.45048344959466" y="0" width="161.19636941474317" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="387.6468528643378" y="0" width="68.00452476500848" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.65137762934626" y="0" width="2.700853780064101" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.35223140941036" y="0" width="1.6477685905895663" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.67028086218158" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="219.67028086218158" y="0" width="170.14291312867405" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="389.81319399085567" y="0" width="65.96838667537557" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.7815806662312" y="0" width="2.619986936642717" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.40156760287397" y="0" width="1.5984323971260614" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -314,7 +314,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>49.23%</div>
+                                <div>47.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -325,7 +325,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>14.78%</div>
+                                <div>14.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -336,7 +336,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>0.36%</div>
+                                <div>0.35%</div>
                             </small>
                         </div>
                     </section>
@@ -349,7 +349,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>35.04%</div>
+                                <div>36.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -360,7 +360,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>0.59%</div>
+                                <div>0.57%</div>
                             </small>
                         </div>
                     </section>
@@ -2645,7 +2645,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.51m out of 115m users</span>
+                                    <span class="gh">ranked 8.52m out of 115m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2947,7 +2947,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2023, 02:14:17 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 10 May 2023, 14:05:26 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
