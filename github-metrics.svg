@@ -298,9 +298,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.22322638951647" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="352.22322638951647" y="0" width="70.04970628106642" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.2729326705829" y="0" width="37.72706732941708" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.27190605239383" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="352.27190605239383" y="0" width="70.01806684733513" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.289972899729" y="0" width="37.710027100271006" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -312,7 +312,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>76.57%</div>
+                                <div>76.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -336,7 +336,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>15.23%</div>
+                                <div>15.22%</div>
                             </small>
                         </div>
                     </section>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2023, 02:14:10 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 Sept 2023, 14:05:38 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
